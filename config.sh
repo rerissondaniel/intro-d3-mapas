@@ -1,3 +1,5 @@
+./downloads.sh
+
 npm install d3
 npm install d3-scale-chromatic
 npm install d3-geo-projection
